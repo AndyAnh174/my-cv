@@ -47,6 +47,20 @@ body {
     flex-shrink: 0; 
 }
 
+.style-type-boots {
+    display: inline-block; 
+    width: 70%; 
+    vertical-align: top; 
+}
+
+.style-type {
+    display: inline-block; 
+    width: 28%;
+    text-align: right; 
+    vertical-align: top; 
+    font-size: 0.9em;
+}
+
 @media (max-width: 600px) {
     body {
         max-width: 100%;
